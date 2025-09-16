@@ -29,7 +29,7 @@ Presentation v1 – PDF :
 Presentation v1 – PPTX :
 
 
-🔜 Upcoming: Updated polished presentation (v2).
+🔜 Final Version Uploaded 
 
 
 🌐 Repository Roadmap
@@ -56,3 +56,7 @@ Stay tuned for new versions of the presentation and upcoming source code.
 
 
 ✨ Developed as part of Smart India Hackathon 2025
+
+## Updates
+- **16 Sept 2025**: Finalized SIH presentation. Improved flowchart readability and polished design.
+- **13 Sept 2025 (Earlier)**: Initial draft uploaded with base features and design.
